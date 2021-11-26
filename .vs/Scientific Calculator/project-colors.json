@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "2a42f03d-35ce-4e20-84de-3b0cf75dcfc0": {
+      "ProjectGuid": "2a42f03d-35ce-4e20-84de-3b0cf75dcfc0",
+      "DisplayName": "Scientific Calculator",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
